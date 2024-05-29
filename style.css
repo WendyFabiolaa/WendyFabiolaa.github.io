@@ -26,7 +26,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #fd708a;
+  background-color: #692532;
 }
 
 .seccion-clara {
@@ -42,7 +42,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #916363;
+  color: #692532;
 }
 
 .seccion-texto {
@@ -52,7 +52,7 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #fd708a;
+  background-color: #692532;
 }
 
 .texto-negro {
@@ -91,7 +91,7 @@ h1 {
 .sobre-mi {
   height: 500px;
   padding: 10px;
-  background-color: #fd708a;
+  background-color: #692532;
 }
 
 .sobre-mi .contenedor {
@@ -117,13 +117,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #fc5672;
+  background-color: #692532;
 }
 
 .experiencia i {
   font-size: 2.5rem;
   color: #3d000c;
-  background-color: #fc5672;
+  background-color: #692532;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -142,7 +142,7 @@ h1 {
 
 .badge {
   margin: 5px;
-  background-color: #fd708a;
+  background-color: #692532;
 }
 
 /* Proyectos */
@@ -268,7 +268,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(203, 85, 136);
+  background-color: #692532;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -350,7 +350,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(253, 13, 149);
+  border: 2px solid #692532;
 }
 
 .iconos-redes-sociales a:hover i {
