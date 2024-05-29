@@ -26,7 +26,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #bd0643;
+  background-color: #fd708a;
 }
 
 .seccion-clara {
@@ -52,7 +52,7 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #7e0e33;
+  background-color: #fd708a;
 }
 
 .texto-negro {
@@ -91,7 +91,7 @@ h1 {
 .sobre-mi {
   height: 500px;
   padding: 10px;
-  background-color: #840d4c;
+  background-color: #fd708a;
 }
 
 .sobre-mi .contenedor {
@@ -117,13 +117,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #750b0b;
+  background-color: #fc5672;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #c21e1e;
-  background-color: #750b0b;
+  color: #3d000c;
+  background-color: #fc5672;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -142,7 +142,7 @@ h1 {
 
 .badge {
   margin: 5px;
-  background-color: #840d4c;
+  background-color: #fd708a;
 }
 
 /* Proyectos */
@@ -255,7 +255,7 @@ h1 {
 
 .testimonio-info .cargo {
   font-size: 0.9rem;
-  color: #656060;
+  color: #201c1c;
 }
 
 /* Contacto */
