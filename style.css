@@ -27,7 +27,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #cd003e;
+  background-color: #7e0b1b;
 }
 
 .seccion-clara {
@@ -53,12 +53,12 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #e69a00;
+  background-color: #e60000;
 }
 
 .btn-info:hover{
   background-color: white;
-  color: #cd003e;
+  color: #7e0b1b;
 }
 
 .texto-negro {
@@ -147,7 +147,7 @@ h1 {
 
 .badge {
   margin: 5px;
-  background-color: #cd003e;
+  background-color: #7e0b1b;
 }
 
 /* Proyectos */
@@ -306,13 +306,13 @@ h1 {
 }
 
 .contacto button i {
-  color: #cd003e;
+  color: #7e0b1b;
   font-size: 1.3rem;
   transition: all 0.2s ease-in-out;
 }
 
 .contacto button:hover i {
-  color: #cd003e;
+  color: #7e0b1b;
 }
 
 /* Pie de pagina (footer) */
